@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "LCR_CARD", "LCR_CARD\LCR_CARD.rptproj", "{A6395D66-872E-4F64-BBC7-D6C1A2B11846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.Debug|Default.ActiveCfg = Debug
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.Debug|Default.Build.0 = Debug
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.Debug|Default.Deploy.0 = Debug
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.DebugLocal|Default.Build.0 = DebugLocal
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.Release|Default.ActiveCfg = Release
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.Release|Default.Build.0 = Release
+		{A6395D66-872E-4F64-BBC7-D6C1A2B11846}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
